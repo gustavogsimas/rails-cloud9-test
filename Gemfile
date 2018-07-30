@@ -6,7 +6,7 @@ ruby '2.4.1'
 gem 'rails'
 gem 'rails-i18n'
 # Use postgresql as the database for Active Record
-gem 'pg'
+gem 'sqlite3'
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
 # gem 'jbuilder', '~> 2.0'
 # Use Puma as the app server
